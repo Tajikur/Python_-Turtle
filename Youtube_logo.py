@@ -55,4 +55,3 @@ lt(120)
 fd(50)
 end_fill()
 done()
-
